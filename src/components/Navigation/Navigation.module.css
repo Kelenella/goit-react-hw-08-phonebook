@@ -1,0 +1,17 @@
+.navLink {
+  margin-left: 15px;
+  display: inline-flex;
+  color: rgb(47, 109, 180);
+  text-decoration: none;
+  font-weight: bold;
+  list-style: none;
+}
+
+.navLink:not(:last-child) {
+  margin-right: 10px;
+}
+
+.activeNavLink {
+  color: black;
+  font-weight: bold;
+}

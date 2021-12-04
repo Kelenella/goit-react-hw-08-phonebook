@@ -1,0 +1,34 @@
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 15px;
+}
+
+@media screen and (min-width: 480px) {
+  .title {
+    font-size: 32px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .title {
+    font-size: 36px;
+  }
+}
+.contactsTitle {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+@media screen and (min-width: 480px) {
+  .contactsTitle {
+    font-size: 30px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .contactsTitle {
+    font-size: 32px;
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "files": {
+    "home-view.js": "/static/js/home-view.7d296232.chunk.js",
+    "home-view.js.map": "/static/js/home-view.7d296232.chunk.js.map",
+    "login-view.css": "/static/css/login-view.afd7172b.chunk.css",
+    "login-view.js": "/static/js/login-view.4de9715a.chunk.js",
+    "login-view.js.map": "/static/js/login-view.4de9715a.chunk.js.map",
+    "main.css": "/static/css/main.94ff06ae.chunk.css",
+    "main.js": "/static/js/main.9ce4dff1.chunk.js",
+    "main.js.map": "/static/js/main.9ce4dff1.chunk.js.map",
+    "phone-view.css": "/static/css/phone-view.bd79af19.chunk.css",
+    "phone-view.js": "/static/js/phone-view.3ebd8819.chunk.js",
+    "phone-view.js.map": "/static/js/phone-view.3ebd8819.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5d4a5768.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5d4a5768.js.map",
+    "sign-up-view.js": "/static/js/sign-up-view.eeb5305c.chunk.js",
+    "sign-up-view.js.map": "/static/js/sign-up-view.eeb5305c.chunk.js.map",
+    "static/css/6.f4c56af9.chunk.css": "/static/css/6.f4c56af9.chunk.css",
+    "static/js/6.fdc08926.chunk.js": "/static/js/6.fdc08926.chunk.js",
+    "static/js/6.fdc08926.chunk.js.map": "/static/js/6.fdc08926.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/6.f4c56af9.chunk.css.map": "/static/css/6.f4c56af9.chunk.css.map",
+    "static/css/login-view.afd7172b.chunk.css.map": "/static/css/login-view.afd7172b.chunk.css.map",
+    "static/css/main.94ff06ae.chunk.css.map": "/static/css/main.94ff06ae.chunk.css.map",
+    "static/css/phone-view.bd79af19.chunk.css.map": "/static/css/phone-view.bd79af19.chunk.css.map",
+    "static/js/6.fdc08926.chunk.js.LICENSE.txt": "/static/js/6.fdc08926.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/greybg.049f538c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d4a5768.js",
+    "static/css/6.f4c56af9.chunk.css",
+    "static/js/6.fdc08926.chunk.js",
+    "static/css/main.94ff06ae.chunk.css",
+    "static/js/main.9ce4dff1.chunk.js"
+  ]
+}
